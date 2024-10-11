@@ -3,4 +3,5 @@
 
 
 def floor(n: float) -> int:
+    '''returns int of n'''
     return int(n)
