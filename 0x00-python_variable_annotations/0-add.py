@@ -1,6 +1,9 @@
 #!/usr/bin/env python 3
-"""Variable annotation"""
+'''Variable annotation
+'''
+
 
 def add(a: float, b: float) -> float:
-    """Returns sum"""
+    '''Returns sum
+    '''
     return a + b
