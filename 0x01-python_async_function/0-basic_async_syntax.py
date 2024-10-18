@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """Asynchronous coroutine"""
 
-
-import asyncio, random
+import asyncio
+import random
 
 
 async def wait_random(max_delay: int = 10) -> float:
